@@ -3,7 +3,7 @@ title: "発明候補は0件だった。再現した異常は、既存の名前�
 emoji: "🧭"
 type: "idea"
 topics: ["ai", "研究", "検証"]
-published: true
+published: false
 ---
 
 発明候補は0件だった。

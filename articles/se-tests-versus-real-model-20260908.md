@@ -3,7 +3,7 @@ title: "1117件テストが通ったSEは、実モデルの応答を一度も記
 emoji: "🧭"
 type: "idea"
 topics: ["ai", "テスト", "検証"]
-published: true
+published: false
 ---
 
 1117件のテストが通っていた。  
