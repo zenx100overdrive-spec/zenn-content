@@ -3,7 +3,7 @@ title: "Claude Codeが自分でCodexにレビューを頼んだら、「直し�
 emoji: "🔍"
 type: "tech"
 topics: ["claudecode", "codex", "claude", "個人開発"]
-published: false
+published: true
 ---
 
 9月30日の 23:30〜23:48、Claude Code は自分が書いたコードを Codex にレビューさせ、13件の指摘を直し、Codex にもう一度確かめさせました。2周目の返答には「**直した13件のうち3件は直っていない、新しい問題が2件**」とありました。私はこの20分のループに、一度も触っていません。
