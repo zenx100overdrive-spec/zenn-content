@@ -3,7 +3,7 @@ title: "Claude CodeにCodexを起動させるのをやめた。2つのAIを並�
 emoji: "🪢"
 type: "tech"
 topics: ["claudecode", "codex", "systemd", "linux", "個人開発"]
-published: false
+published: true
 ---
 
 Claude Code と Codex を一緒に使うとき、よくある形は「親子」です。Claude Code が考え、必要になったら `codex exec` で Codex を呼び、結果を受け取って次へ進む。指揮役が一人いるほうが分かりやすい——そう思われがちです。
