@@ -140,3 +140,10 @@ python3 cc_outcomes.py 2026-10-01T15:00:00Z   # この時刻より前だけ（�
 コミットは、Claude Code の仕事の一部しか映していません。調べた答えや確認できた事実は、コミットにならないので、記録しておかないと残りません。私の環境では、Claude Code の作業ごとに「何をして、何が分かったか」を要約して残す仕組みを使っています。
 
 あなたの手元では、何%がコミットで終わっていますか。
+
+## 関連記事
+
+- [音声入力でAIへ仕事を渡し、履歴が消えたあとの保存対策を残した記録](https://zenn.dev/zdna/articles/voice-claude-code-tos-stop)
+- [Claude CodeからCodexへレビューを依頼し、13件の指摘を再確認した記録](https://zenn.dev/zdna/articles/codex-review-13-findings)
+
+AIへ仕事を渡した手順、履歴が残らなかった失敗、直したあとの確認方法を、個別の事例として無料で記録していきます。同じテーマの続きは、[プロフィール](https://zenn.dev/zdna)からフォローして読めます。
