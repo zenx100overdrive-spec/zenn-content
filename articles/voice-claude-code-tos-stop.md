@@ -95,3 +95,10 @@ while time.time() < end:
 私が今いちばん試したいのは、これです（前日に自分で書いた仮説）。
 
 > AI / System側がHumanの活動を観測し、「これはHumanにやらせる必要がない」と判断できる仕事を見つけ、Humanから取り除いていく方が適しているのではないか。
+
+## 関連記事
+
+- [Claude CodeからCodexへレビューを依頼し、13件の指摘を再確認した記録](https://zenn.dev/zdna/articles/codex-review-13-findings)
+- [Claude Codeへの依頼379件を、終わり方ごとに数えた記録と集計コード](https://zenn.dev/zdna/articles/claude-code-379-requests-commit-17)
+
+AIへ仕事を渡した手順、履歴が残らなかった失敗、直したあとの確認方法を、個別の事例として無料で記録していきます。同じテーマの続きは、[プロフィール](https://zenn.dev/zdna)からフォローして読めます。
