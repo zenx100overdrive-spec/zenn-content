@@ -87,3 +87,10 @@ codex exec -s read-only -C <repo> -o task-001-result.md - < task-001-review.md
 
 - 3周目は回していない。最後の5件の修正は、**まだ誰にも確かめられていない**。
 - **「直しました」という申告は、13件中3件で外れていた。** この回は、確認を別のAIにさせたことで、その3件が返答に出てきた。同じAIに確認させた場合と比べたわけではないので、「別のAIだから見つかった」とまでは言えない。
+
+## 関連記事
+
+- [音声入力でAIへ仕事を渡し、履歴が消えたあとの保存対策を残した記録](https://zenn.dev/zdna/articles/voice-claude-code-tos-stop)
+- [Claude Codeへの依頼379件を、終わり方ごとに数えた記録と集計コード](https://zenn.dev/zdna/articles/claude-code-379-requests-commit-17)
+
+AIへ仕事を渡した手順、履歴が残らなかった失敗、直したあとの確認方法を、個別の事例として無料で記録していきます。同じテーマの続きは、[プロフィール](https://zenn.dev/zdna)からフォローして読めます。
