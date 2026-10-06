@@ -3,7 +3,7 @@ title: "Claude Codeが今なにをしているか縦モニターに映したら�
 emoji: "🖥️"
 type: "tech"
 topics: ["claudecode", "codex", "可視化", "python", "linux"]
-published: false
+published: true
 ---
 
 Claude Code に仕事を任せていると、画面の向こうで「AIがコードを書いている」と思いがちです。進捗を見る画面を作るなら、書いたファイルの数やコミットを並べればいい——そう考えていました。
